@@ -43,6 +43,7 @@ Le pipeline est défini avec :
   3. **Execute** : exécuter le jar généré
  
 <img width="1818" height="908" alt="i2" src="https://github.com/user-attachments/assets/7b65b7d2-b48f-42c2-b0f4-095a1a34c791" />
+<img width="1895" height="909" alt="i3" src="https://github.com/user-attachments/assets/e3f2840c-d245-4b6c-aaf0-3fd2184ad199" />
 
 
 Exemple :
@@ -73,4 +74,4 @@ pipeline {
             }
         }
     }
-}
+}  ```groovy
